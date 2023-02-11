@@ -1,0 +1,3 @@
+[submodule "extensions/roam-research"]
+	path = extensions/roam-research
+	url = git@github.com:camin-mccluskey/roam-research-raycast-extension.git
